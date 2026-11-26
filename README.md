@@ -39,25 +39,23 @@
 
 > <img src="https://img.shields.io/badge/featured-5B87B8?style=flat-square" alt="featured" />
 >
-> **Drug Information Assistant** — a retrieval-augmented chatbot that answers questions from official FDA prescribing information. Every answer is grounded in the retrieved text, cites the exact page it came from, and refuses when the best chunk is below the similarity threshold or the question is out of scope — no model call, no guess.
+> **Drug Information Assistant** — a RAG chatbot that answers only from official FDA prescribing information. every answer cites its page and refuses when the evidence is weak.
 >
-> `Python` `FastAPI` `bge-small-en-v1.5` `Chroma` `Ollama` `Next.js` · **[source](https://github.com/SaaL2568/cts-hackathon)**
->
-> <sub>PDF → page-aware chunks → bge-small-en-v1.5 → Chroma → top-5 → similarity gate at 0.7 → llama3.1 → cited answer</sub>
+> `Python` `FastAPI` `Chroma` `Ollama` `Next.js` · **[source](https://github.com/SaaL2568/cts-hackathon)**
 
 <p align="center">
-  <sub>the guardrail sits before generation, not after. if retrieval is weak, the correct answer is <i>"not in the label."</i></sub>
+  <sub>currently working on <b>Magpie</b> — a Chrome extension that collects product details into one place.</sub>
 </p>
 
 <br/>
 
 <h3 align="center">what i'm into</h3>
 
-- **Retrieval that stays honest** — answers that come only from evidence, cite the page they used, and refuse when the evidence is thin. it's the most interesting part of working with models.
-- **Systems that fail loudly** — structured logs you can reconstruct a bad run from, timeouts that actually fire, watchdogs, and explicit error states instead of quiet degradation.
-- **The part after it's built** — observability, failure handling, and root-cause work. the side of software that only shows up in production.
-- **Signals over time** — recurrence plots and recurrence quantification on chaotic and climate data, from a research internship at IIIT Kottayam's FACTS-H lab. it's the same instinct as reading a metrics graph instead of a single error.
-- **Small tools for real annoyances** — a Windows app for earphone channel imbalance, a keyboard that predicts your next letter, an extension that remembers products for me.
+- **Honest retrieval** — answers from evidence, with citations, or a refusal.
+- **Systems that fail loudly** — logs, timeouts, watchdogs, clear errors.
+- **The part after it's built** — observability and root-cause work.
+- **Signals over time** — recurrence plots on chaotic and climate data.
+- **Small tools** — earphone balance, keyboard prediction, product collecting.
 
 <br/>
 
@@ -92,7 +90,7 @@
 
 <p align="center">
   <img height="168" src="https://github-readme-stats.vercel.app/api?username=SaaL2568&show_icons=true&hide_border=true&bg_color=F7FBFA&title_color=4E9E86&text_color=5A6E75&icon_color=6E9BD1&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaaL2568&layout=compact&hide_border=true&bg_color=F7FBFA&title_color=4E9E86&text_color=5A6E75&langs_count=8" alt="top languages" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaaL2568&layout=compact&hide_border=true&bg_color=F7FBFA&title_color=4E9E86&text_color=5A6E75&langs_count=8&hide=jupyter%20notebook" alt="top languages" />
 </p>
 
 <p align="center">
@@ -101,14 +99,6 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaaL2568&bg_color=F7FBFA&color=5B87B8&line=4E9E86&point=6E9BD1&area=true&hide_border=true&custom_title=my%20little%20commit%20trail" alt="activity graph" />
-</p>
-
-<br/>
-
-<h3 align="center">when i'm not coding</h3>
-
-<p align="center">
-  chasing channel imbalance in my IEMs &nbsp;·&nbsp; rebuilding my keyboard layout again &nbsp;·&nbsp; reading about nonlinear dynamics
 </p>
 
 <br/>
