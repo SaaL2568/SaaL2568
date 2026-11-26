@@ -65,7 +65,7 @@
 
 <br/>
 
-<h3 align="center">Side Projects</h3>
+<h3 align="center">Projects</h3>
 
 | # | Project | What it does | Built with |
 | :-: | :--- | :--- | :--- |
