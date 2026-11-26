@@ -98,6 +98,4 @@
 
 <img src="assets/footer-wave.svg" width="100%" alt="Thanks for stopping by" />
 
-<sub>Made with pastel, patience, and far too many side projects.</sub>
-
 </div>
