@@ -15,6 +15,9 @@
 
 <br/>
 
+<a href="https://linkedin.com/in/samuel-alex2568">
+  <img src="https://img.shields.io/badge/LinkedIn-samuel--alex2568-5B87B8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/SaaL2568">
   <img src="https://img.shields.io/badge/GitHub-SaaL2568-3D5A63?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
