@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  I'm <b>Samuel</b> — a final-year B.Tech CSE (AI &amp; ML) student at Christ University, Bengaluru,
+  I'm <b>Samuel</b>, a final-year B.Tech CSE (AI &amp; ML) student at Christ University, Bengaluru,
   with an Honours in Cyber Security. I build retrieval-augmented AI that answers with citations instead of confidence.
 </p>
 
@@ -47,30 +47,31 @@
 
 > <img src="https://img.shields.io/badge/Featured-5B87B8?style=flat-square" alt="Featured" />
 >
-> **Drug Information Assistant** — A RAG chatbot that answers only from official FDA prescribing information. Every answer cites its page and refuses when the evidence is weak.
+> **Drug Information Assistant**: A RAG chatbot that answers only from official FDA prescribing information. Every answer cites its page and refuses when the evidence is weak.
 >
 > `Python` `FastAPI` `Chroma` `Ollama` `Next.js` · **[source](https://github.com/SaaL2568/cts-hackathon)**
 
 <p align="center">
-  <sub>Currently working on <b>Magpie</b> — a Chrome extension that collects product details into one place.</sub>
+  <sub>Currently working on <b>Magpie</b>, a Chrome extension that collects product details into one place.</sub>
 </p>
 
 <br/>
 
-<h3 align="center">What I'm Into</h3>
+<h3 align="center">Technical Focus</h3>
 
-- **Honest retrieval** — Answers from evidence, with citations, or a refusal.
-- **Systems that fail loudly** — Logs, timeouts, watchdogs, clear errors.
-- **The part after it's built** — Observability and root-cause work.
-- **Signals over time** — Recurrence plots on chaotic and climate data.
-- **Small tools** — Earphone balance, keyboard prediction, product collecting.
+- **RAG**: retrieval, chunking, embeddings, similarity gates, page-level citations.
+- **AI systems**: LLM pipelines, guardrails, evaluation, local models.
+- **APIs**: FastAPI, REST, auth, background jobs, error handling.
+- **Observability**: structured logs, timeouts, watchdogs, failure recovery.
+- **Computer vision**: MediaPipe, YOLO, real-time inference.
+- **Data**: Chroma, BM25, time series analysis.
 
 <br/>
 
 <h3 align="center">Where I've Worked</h3>
 
-- **NovaForge.ai** · Technical Intern, 2026 — FastAPI backends for two AI products: a clinical document pipeline that turns scanned case sheets into discharge-summary drafts with field-level provenance, and a planning-intelligence platform where I built the retrieval layer and insight reports.
-- **IIIT Kottayam, FACTS-H Lab** · Research Intern, 2025 — Nonlinear time series analysis with recurrence plots and recurrence quantification on chaotic and climate data.
+- **NovaForge.ai** · Technical Intern, 2026: FastAPI backends for two AI products: a clinical document pipeline that turns scanned case sheets into discharge-summary drafts with field-level provenance, and a planning-intelligence platform where I built the retrieval layer and insight reports.
+- **IIIT Kottayam, FACTS-H Lab** · Research Intern, 2025: Nonlinear time series analysis with recurrence plots and recurrence quantification on chaotic and climate data.
 
 <br/>
 
@@ -78,11 +79,11 @@
 
 | # | Project | What it does | Built with |
 | :-: | :--- | :--- | :--- |
-| 01 | **[WordHalo](https://github.com/SaaL2568/WordHalo)** | Lights up the next letter on your keyboard before you consciously think of it — per-key RGB meets a language model. | `Python` `QMK` `NLP` |
+| 01 | **[WordHalo](https://github.com/SaaL2568/WordHalo)** | Lights up the next letter on your keyboard before you consciously think of it. Per-key RGB meets a language model. | `Python` `QMK` `NLP` |
 | 02 | **[hand-of-driver](https://github.com/SaaL2568/hand-of-driver)** | Drive a simulated car with your hands in front of a webcam. Smooth steering from MediaPipe, discrete commands from YOLO11. | `Python` `OpenCV` `YOLO` |
 | 03 | **[hearequalornah](https://github.com/SaaL2568/hearequalornah)** | Plays a tone in each ear, measures the difference with your microphone, then fixes the imbalance in Windows. Free, offline. | `C#` `WPF` `NAudio` |
 | 04 | **[TrackFinder](https://github.com/SaaL2568/TrackFinder)** | Finds an artist's most-played songs and turns them into a playlist, so you don't have to. | `JavaScript` `Spotify API` |
-| 05 | **Magpie** | A Chrome extension that collects everything about a product you like — specs, images, screenshots, notes — into one personal catalogue. In progress, not published yet. | `JavaScript` `Chrome MV3` |
+| 05 | **Magpie** | A Chrome extension that collects everything about a product you like (specs, images, screenshots, notes) into one personal catalogue. In progress, not published yet. | `JavaScript` `Chrome MV3` |
 
 <br/>
 
