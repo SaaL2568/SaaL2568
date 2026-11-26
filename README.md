@@ -15,7 +15,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20collaborations-4E9E86?style=flat-square" alt="Open to collaborations" />
+<a href="https://github.com/SaaL2568">
+  <img src="https://img.shields.io/badge/GitHub-SaaL2568-3D5A63?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:samuelalexn2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-samuelalexn2005%40gmail.com-4E9E86?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
