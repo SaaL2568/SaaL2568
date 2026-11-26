@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="hi, i'm samuel" />
+<img src="assets/banner.svg" width="100%" alt="hi, i'm samuel" />
 
 <a href="https://github.com/SaaL2568">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1400&color=4E9E86&center=true&vCenter=true&width=700&lines=i+build+RAG+systems+that+cite+their+sources;retrieval%2C+grounding%2C+guardrails+%26+observability;currently%3A+a+drug-info+RAG+app+%26+a+word-predicting+keyboard;ask+me+about+retrieval%2C+IEMs%2C+QMK%2C+or+side+projects" alt="typing intro" />
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="thanks for stopping by" />
+<img src="assets/wave.svg" width="100%" alt="thanks for stopping by" />
 
 <sub>made with pastel, patience, and far too many side projects</sub>
 
