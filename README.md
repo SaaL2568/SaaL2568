@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=240&section=header&text=hi%2C%20i%27m%20samuel&fontSize=46&fontColor=6B4A63&animation=fadeIn&fontAlignY=40" width="100%" alt="hi, i'm samuel" />
 
 <a href="https://github.com/SaaL2568">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&pause=1400&color=C97BA8&center=true&vCenter=true&width=620&lines=i+build+small%2C+useful%2C+slightly+over-engineered+things;python+%2B+c%23+%2B+typescript%2C+held+together+with+pastel+duct+tape;currently%3A+a+3D+car+showroom+%26+a+keyboard+that+predicts+words;ask+me+about+IEMs%2C+QMK%2C+or+my+ever-growing+side-project+list" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&pause=1400&color=C97BA8&center=true&vCenter=true&width=620&lines=i+build+RAG+systems+that+answer+with+citations%2C+not+vibes;retrieval%2C+grounding%2C+evaluation+%26+a+soft+spot+for+pastel;currently%3A+a+grounded+drug-info+assistant+%26+a+keyboard+that+predicts+words;ask+me+about+retrieval%2C+IEMs%2C+QMK%2C+or+my+side-project+list" alt="typing intro" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 <br/>
 
 <p align="center">
-  i'm <b>Samuel</b> — a student who builds tools for problems i personally find annoying.
-  a spelling halo for my keyboard. a way to check if my left earbud is quieter.
-  a chatbot that actually cites its sources. most of them start as <i>"this should take a weekend."</i>
+  i'm <b>Samuel</b> — i build retrieval-augmented AI that answers with citations instead of confidence.
+  on the side, i make small tools for problems i personally find annoying: a spelling halo for my keyboard,
+  a way to check if my left earbud is quieter, a place to keep the things i almost bought.
 </p>
 
 <p align="center">
@@ -35,16 +35,30 @@
 
 <p align="center"><sub>· · · · · · · · · ·</sub></p>
 
-<h3 align="center">a little about me</h3>
+<h3 align="center">what i focus on</h3>
 
-- **student** — i learn by building the thing instead of reading about the thing
-- **keyboard nerd** — Keychron K3 Pro, QMK firmware, and an unreasonable amount of per-key RGB
-- **audio tinkerer** — IEMs, channel balance, and *"is it just me or is the left side quieter?"*
-- **AI/ML playground** — gesture recognition, RAG with citations, prompt evaluation, small local models
+> <img src="https://img.shields.io/badge/featured-C97BA8?style=flat-square" alt="featured" />
+>
+> **Drug Information Assistant** — a retrieval-augmented chatbot that answers questions from official FDA prescribing information. Every answer is grounded in the retrieved text, cites the exact page it came from, and refuses when confidence is low or the question is outside the ingested documents.
+>
+> `Python` `FastAPI` `sentence-transformers` `Chroma` `Ollama` `Next.js` · **[source](https://github.com/SaaL2568/cts-hackathon)**
+
+<p align="center">
+  <sub>this is the work i want to keep doing: retrieval that stays honest, answers you can check, and systems that know when to say <i>"i don't know."</i></sub>
+</p>
 
 <br/>
 
-<h3 align="center">things i've built</h3>
+<h3 align="center">a little about me</h3>
+
+- **RAG / LLM engineering** — retrieval, grounding, page-level citations, evaluation, and knowing when to say *"i don't know"*
+- **student** — i learn by building the thing instead of reading about the thing
+- **keyboard nerd** — Keychron K3 Pro, QMK firmware, and an unreasonable amount of per-key RGB
+- **audio tinkerer** — IEMs, channel balance, and *"is it just me or is the left side quieter?"*
+
+<br/>
+
+<h3 align="center">side projects</h3>
 
 | # | project | what it does | built with |
 | :-: | :--- | :--- | :--- |
@@ -52,18 +66,7 @@
 | 02 | **[hand-of-driver](https://github.com/SaaL2568/hand-of-driver)** | Drive a simulated car with your hands in front of a webcam. Smooth steering from MediaPipe, discrete commands from YOLO11. | `Python` `OpenCV` `YOLO` |
 | 03 | **[hearequalornah](https://github.com/SaaL2568/hearequalornah)** | Plays a tone in each ear, measures the difference with your microphone, then fixes the imbalance in Windows. Free, offline. | `C#` `WPF` `NAudio` |
 | 04 | **[TrackFinder](https://github.com/SaaL2568/TrackFinder)** | Finds an artist's most-played songs and turns them into a playlist, so you don't have to. | `JavaScript` `Spotify API` |
-| 05 | **[cts-hackathon](https://github.com/SaaL2568/cts-hackathon)** | A RAG chatbot that answers questions from FDA prescribing PDFs — every answer cites the exact page it came from. | `Python` `FastAPI` `Chroma` |
-| 06 | **[promptengineeringcia3](https://github.com/SaaL2568/promptengineeringcia3)** | Models × reasoning approaches × prompt styles, plus a sliding-window summarizer measured against a real local LLM. | `Python` `Ollama` |
-
-<p align="center">
-  <sub>
-    also floating around →
-    <a href="https://github.com/SaaL2568/wyacampus">campus navigation</a> ·
-    <a href="https://github.com/SaaL2568/SpotifyTools">playlist scripts</a> ·
-    <a href="https://github.com/SaaL2568/showroom-compiler">a 3D car showroom</a> ·
-    <a href="https://github.com/SaaL2568/faculty-frontend">a faculty portal</a>
-  </sub>
-</p>
+| 05 | **Magpie** | A Chrome extension that collects everything about a product you like — specs, images, screenshots, notes — into one personal catalogue. In progress, not published yet. | `JavaScript` `Chrome MV3` |
 
 <br/>
 
@@ -95,7 +98,7 @@
 <h3 align="center">when i'm not coding</h3>
 
 <p align="center">
-  losing at UNO over a phone hotspot &nbsp;·&nbsp; collecting keyboard sounds &nbsp;·&nbsp; writing up digital forensics notes
+  taking my keyboard apart again &nbsp;·&nbsp; reorganizing playlists that were already fine &nbsp;·&nbsp; reading about audio gear
 </p>
 
 <br/>
