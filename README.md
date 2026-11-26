@@ -102,14 +102,6 @@
   <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaaL2568&layout=compact&hide_border=true&bg_color=F7FBFA&title_color=4E9E86&text_color=5A6E75&langs_count=8&hide=jupyter%20notebook" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaaL2568&hide_border=true&background=F7FBFA&ring=4E9E86&fire=6E9BD1&currStreakLabel=5B87B8&sideLabels=5A6E75&dates=8A9AA0&currStreakNum=3D5A63&sideNums=3D5A63" alt="Commit streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaaL2568&bg_color=F7FBFA&color=5B87B8&line=4E9E86&point=6E9BD1&area=true&hide_border=true&custom_title=My%20commit%20trail" alt="Activity graph" />
-</p>
-
 <br/>
 
 <div align="center">
