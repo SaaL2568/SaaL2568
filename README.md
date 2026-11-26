@@ -43,19 +43,9 @@
 
 <p align="center"><sub>· · · · · · · · · ·</sub></p>
 
-<h3 align="center">What I Focus On</h3>
-
-> <img src="https://img.shields.io/badge/Featured-5B87B8?style=flat-square" alt="Featured" />
->
-> **Drug Information Assistant**: A RAG chatbot that answers only from official FDA prescribing information. Every answer cites its page and refuses when the evidence is weak.
->
-> `Python` `FastAPI` `Chroma` `Ollama` `Next.js` · **[source](https://github.com/SaaL2568/cts-hackathon)**
-
 <p align="center">
-  <sub>Currently working on <b>Magpie</b>, a Chrome extension that collects product details into one place.</sub>
+  Currently working on <b>Magpie</b>, a Chrome extension that collects product details into one place.
 </p>
-
-<br/>
 
 <h3 align="center">Technical Focus</h3>
 
