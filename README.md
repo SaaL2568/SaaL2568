@@ -1,7 +1,8 @@
 <!--
   hi! this is your GitHub profile README.
   to make it live: create a PUBLIC repo named exactly "SaaL2568" and drop this file in as README.md.
-  palette: mint #8FD3B6 · blue #9CC4E8 · ink #3D5A63 · cream #F7FBFA
+  palette: mint #4E9E86 · blue #5B87B8 · ink #3D5A63 · cream #F7FBFA
+  wave gradient: #A8DCC3 → #A9CBEC
 -->
 
 <div align="center">
